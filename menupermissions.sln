@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "menupermissions", "menupermissions\menupermissions.csproj", "{67379312-683E-4964-90FD-13BC2E23F0BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3C2565A-A0ED-4690-93F7-DBD508BDB6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menupermissionsTests", "menupermissionsTests\menupermissionsTests.csproj", "{464B84EC-2DD4-4626-A208-7B64F44FF902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67379312-683E-4964-90FD-13BC2E23F0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67379312-683E-4964-90FD-13BC2E23F0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67379312-683E-4964-90FD-13BC2E23F0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67379312-683E-4964-90FD-13BC2E23F0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464B84EC-2DD4-4626-A208-7B64F44FF902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464B84EC-2DD4-4626-A208-7B64F44FF902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464B84EC-2DD4-4626-A208-7B64F44FF902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464B84EC-2DD4-4626-A208-7B64F44FF902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB11C942-BFA0-417A-ACC3-D9066DD94A11}
+	EndGlobalSection
+EndGlobal
